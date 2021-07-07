@@ -1,0 +1,33 @@
+the height of Darth Vader
+    ----- https://swapi.dev/api/people/4/
+    ----- 202
+
+the population of the planet Alderaan
+    ------ https://swapi.dev/api/planets/3/
+    ------ 2000000000
+
+the name of the manufacturer of the Millennium Falcon
+    ------- https://swapi.dev/api/starships/10/
+    ------- Corellian Engineering Corporation
+
+the name of the species that C-3PO belongs to
+    ------- https://swapi.dev/api/species/2/
+    ------- Droid
+
+the title of each film that Obi-Wan Kenobi is in
+    ------- A New Hope
+    ------- The Empire Strikes Back
+    ------- Return of the Jedi
+    ------- The Phantom Menace
+    ------- Attack of the Clones
+    ------- Revenge of the Sith
+
+    --------"https://swapi.dev/api/films/1/",
+                "https://swapi.dev/api/films/2/",
+                "https://swapi.dev/api/films/3/",
+                "https://swapi.dev/api/films/4/",
+                "https://swapi.dev/api/films/5/",
+                "https://swapi.dev/api/films/6/
+
+use the search query (the how to on the search query is at the bottom of the Getting Started section of the documentation) to get the information about the Millennium Falcon, it’s a starship
+    ------- https://swapi.dev/api/starships/?search=Mill
